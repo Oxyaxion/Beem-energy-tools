@@ -2,7 +2,7 @@
 
 ![Sortie du script Beem](beem-script.png)
 
-Différents script pour Linux que j'utilise pour récupérer les metrics depuis l'API de Beem Energy (la même utilisée par l'application)
+Repertoire de différents scripts que j'utilise pour récupérer les metrics depuis l'API de Beem Energy (la même utilisée par l'application).
 
 Ce ne sont évidemment pas des outils officielement supportés par <https://beemenergy.fr/> Beem Energy.
 
@@ -12,13 +12,15 @@ Ce repo est en Français car j'imagine que la grande majorité de leur client so
 
 Je ne posséde qu'un seul panneau Beem On. Je n'ai pas donc pu tester l'API avec plus de panneaux ou les batteries ou une installation plus compléte ...
 
-Pour l'instant les scripts ne fonctionnent / n'ont été testé qu'avec un seul panneau Beem On.
-
-- beem_metrics.sh : Affiche vos statistique de production dans votre terminal (C'est le script que vous cherchez).
+- beem_metrics.sh : Affiche vos statistiques de production actuelle / jour / mois dans votre terminal (C'est le script que vous cherchez qui génére l'image plus haut)
 
 - explore_api.sh : Un script plus pour les developpeurs qui affiche toutes les informations disponibles par l'API
 
+- To do : Un script pour injecter les metrics dans une base InfluxDB pour Grafana
+
 ## Installation et Configuration
+
+Il n y a rien à configurer à part votre identifiant / mot de passe (le même que votre application Beem).
 
 ### Méthode 1 : Variables d'environnement (Recommandé)
 
