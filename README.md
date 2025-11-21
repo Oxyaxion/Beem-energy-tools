@@ -1,14 +1,17 @@
-# Beem Linux Tools 
+# Beem Linux Tools
+
+![Sortie du script Beem](beem-script.png)
 
 Différents script pour Linux que j'utilise pour récupérer les metrics depuis l'API de Beem Energy (la même utilisée par l'application)
 
-Ce ne sont évidemment pas des outils officielement supportés par Beem Energy.
+Ce ne sont évidemment pas des outils officielement supportés par <https://beemenergy.fr/> Beem Energy.
 
 Ce repo est en Français car j'imagine que la grande majorité de leur client sont basées en FR/BE/CH ... if necessary mail me and will translate this in English.
 
 # Cas d'usage
 
 Je ne posséde qu'un seul panneau Beem On. Je n'ai pas donc pu tester l'API avec plus de panneaux ou les batteries ou une installation plus compléte ...
+
 Pour l'instant les scripts ne fonctionnent / n'ont été testé qu'avec un seul panneau Beem On.
 
 - beem_metrics.sh : Affiche vos statistique de production dans votre terminal (C'est le script que vous cherchez).
