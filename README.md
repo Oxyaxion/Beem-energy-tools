@@ -1,6 +1,10 @@
-# ☀️ Beem Linux Tools ☀️
+<h1 align="center">
+   ☀️ Beem Linux Tools ☀️
+</h1>
 
+<p align="center">
 ![Sortie du script Beem](beem-script.png)
+</p>
 
 Repertoire de différents scripts que j'utilise pour récupérer les metrics depuis l'API de Beem Energy (la même utilisée par l'application).
 
