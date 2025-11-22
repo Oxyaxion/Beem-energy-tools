@@ -2,8 +2,10 @@
  🔌 ☀️ Beem Energy Linux Tools ☀️ 🔌
 </h1>
 
+
 <p align="center">
-  <img src="https://github.com/Oxyaxion/Beem-energy-tools/blob/main/beem-script.png">
+ <img src="https://play.google.com/store/apps/details?id=com.beemenergy.mybeem&hl=fr">
+ <img src="https://github.com/Oxyaxion/Beem-energy-tools/blob/main/beem-script.png">
 </p>
 
 Script qui permet de suivre votre consommation dans votre terminal Linux
