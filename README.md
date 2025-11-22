@@ -1,5 +1,5 @@
 <h1 align="center">
-   ☀️ Beem Linux Tools ☀️
+ 🔌 ☀️ Beem Energy Linux Tools ☀️ 🔌
 </h1>
 
 <p align="center">
