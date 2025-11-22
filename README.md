@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Oxyaxion/Beem-energy-tools/blob/main/beem-script.png">
+  <img width="450" height="600" src="https://github.com/Oxyaxion/Beem-energy-tools/blob/main/beem-script.png">
 </p>
 
 Repertoire de différents scripts que j'utilise pour récupérer les metrics depuis l'API de Beem Energy (la même utilisée par l'application).
