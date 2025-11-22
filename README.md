@@ -15,9 +15,9 @@ Ce repo est en Français car j'imagine que la grande majorité de leur client so
 
 Je ne posséde qu'un seul panneau Beem On. Je n'ai pas donc pu tester l'API avec plus de panneaux ou les batteries ou une installation plus compléte ...
 
-- beem_metrics.sh : Affiche vos statistiques de production actuelle / jour / mois dans votre terminal (C'est le script que vous cherchez qui génére l'image plus haut)
+- <a href="https://github.com/Oxyaxion/Beem-energy-tools/blob/main/beem_metrics.sh"> beem_metrics.sh </a> : Affiche vos statistiques de production actuelle / jour / mois dans votre terminal (C'est le script que vous cherchez qui génére l'image plus haut)
 
-- explore_api.sh : Un script plus pour les developpeurs qui affiche toutes les informations disponibles par l'API
+- <a href="https://github.com/Oxyaxion/Beem-energy-tools/blob/main/explore_api.sh"> explore_api.sh </a> : Un script plus pour les developpeurs qui affiche toutes les informations disponibles par l'API
 
 - To do : Un script pour injecter les metrics dans une base InfluxDB pour Grafana
 
