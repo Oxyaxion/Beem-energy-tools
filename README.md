@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-![Sortie du script Beem](beem-script.png)
+  <img width="460" height="300" src="https://picsum.photos/460/300">
 </p>
 
 Repertoire de différents scripts que j'utilise pour récupérer les metrics depuis l'API de Beem Energy (la même utilisée par l'application).
