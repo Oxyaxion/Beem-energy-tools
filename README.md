@@ -6,7 +6,8 @@
   <img src="https://github.com/Oxyaxion/Beem-energy-tools/blob/main/beem-script.png">
 </p>
 
-Repertoire de différents scripts que j'utilise pour récupérer les metrics depuis l'API de Beem Energy (la même utilisée par l'application).
+Script qui permet de suivre votre consommation dans votre terminal Linux
+Récupére les metrics depuis l'API de Beem Energy (la même utilisée par l'application).
 Ce ne sont évidemment pas des outils officielement supportés par <https://beemenergy.fr/> Beem Energy.
 
 Ce repo est en Français car j'imagine que la grande majorité de leur client sont basées en FR/BE/CH ... if necessary mail me and will translate this in English.
@@ -24,6 +25,7 @@ Je ne posséde qu'un seul panneau Beem On. Je n'ai pas donc pu tester l'API avec
 ## Installation et Configuration
 
 Il n y a rien à configurer à part votre identifiant / mot de passe (le même que votre application Beem).
+S'il vous plait faites attention avec votre mot de passe ... il n'est pas possible de changer son password dans l'application Beem 😖
 
 ### Méthode 1 : Variables d'environnement (Recommandé)
 
