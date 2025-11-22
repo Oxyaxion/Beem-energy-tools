@@ -4,8 +4,10 @@
 
 
 <p align="center">
- <img src="[https://play.google.com/store/apps/details?id=com.beemenergy.mybeem&hl=fr](https://play-lh.googleusercontent.com/ftUMGK_lg0RzGCWNILbo6OYxmAwTgXyB1jJPIyrN3LBmwFB1RLe7o-sZuduLrNdpFG4=w240-h480-rw)">
  <img src="https://github.com/Oxyaxion/Beem-energy-tools/blob/main/beem-script.png">
+</p>
+<p align="center">
+ <img src="https://play.google.com/store/apps/details?id=com.beemenergy.mybeem">
 </p>
 
 Script qui permet de suivre votre consommation dans votre terminal Linux
