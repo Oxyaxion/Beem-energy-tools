@@ -1,4 +1,4 @@
-# Beem Linux Tools
+# ☀️ Beem Linux Tools ☀️
 
 ![Sortie du script Beem](beem-script.png)
 
