@@ -3,11 +3,10 @@
 </h1>
 
 <p align="center">
-  <img width="450" height="600" src="https://github.com/Oxyaxion/Beem-energy-tools/blob/main/beem-script.png">
+  <img width="450" height="700" src="https://github.com/Oxyaxion/Beem-energy-tools/blob/main/beem-script.png">
 </p>
 
 Repertoire de différents scripts que j'utilise pour récupérer les metrics depuis l'API de Beem Energy (la même utilisée par l'application).
-
 Ce ne sont évidemment pas des outils officielement supportés par <https://beemenergy.fr/> Beem Energy.
 
 Ce repo est en Français car j'imagine que la grande majorité de leur client sont basées en FR/BE/CH ... if necessary mail me and will translate this in English.
